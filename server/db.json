@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "author": "cobasss",
+      "title": "dicobax",
+      "id": 12
+    },
+    {
+      "author": "juju",
+      "title": "sasa",
+      "id": 19
+    },
+    {
+      "author": "coba",
+      "title": "dicobasdsdsd",
+      "id": 20
+    },
+    {
+      "author": "Conan",
+      "title": "Aoyama Gosho",
+      "id": 21
+    },
+    {
+      "author": "tes",
+      "title": "123",
+      "id": 22
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 19
+    },
+    {
+      "id": 2,
+      "body": "Halooo semua semaunya",
+      "postId": 21
+    },
+    {
+      "body": "ini menambahkan komentar",
+      "postId": 21,
+      "id": 3
+    },
+    {
+      "postId": "21",
+      "id": 4
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 5
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 6
+    },
+    {
+      "postId": "21",
+      "id": 7
+    },
+    {
+      "postId": "21",
+      "id": 8
+    },
+    {
+      "body": "cmn",
+      "postId": "21",
+      "id": 9
+    },
+    {
+      "body": "cmn",
+      "postId": "21",
+      "id": 10
+    },
+    {
+      "body": "cmn",
+      "postId": "21",
+      "id": 11
+    },
+    {
+      "body": "cmn",
+      "postId": "21",
+      "id": 12
+    },
+    {
+      "postId": "21",
+      "id": 13
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 14
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 15
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 16
+    },
+    {
+      "body": "",
+      "postId": "21",
+      "id": 17
+    },
+    {
+      "body": "jojon",
+      "postId": "21",
+      "id": 18
+    },
+    {
+      "body": "zuzuzu",
+      "postId": "19",
+      "id": 19
+    },
+    {
+      "body": "zxzx",
+      "postId": "12",
+      "id": 20
+    },
+    {
+      "body": "zxczxc",
+      "postId": "20",
+      "id": 21
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
