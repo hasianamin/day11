@@ -54,6 +54,7 @@ class Comments extends Component {
     render() { 
         return (
             <div className='container'>
+                <h2 className='mt-5'>Komentar</h2>
                 <Card className='mt-5 text-left'>
                     <CardBody>
                         {this.renderComments()}

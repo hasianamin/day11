@@ -1,19 +1,14 @@
 {
   "posts": [
     {
-      "author": "cobasss",
-      "title": "dicobax",
+      "author": "Raditya Dika",
+      "title": "Kambing Jantan",
       "id": 12
     },
     {
       "author": "juju",
       "title": "sasa",
       "id": 19
-    },
-    {
-      "author": "coba",
-      "title": "dicobasdsdsd",
-      "id": 20
     },
     {
       "author": "Conan",
@@ -24,6 +19,11 @@
       "author": "tes",
       "title": "123",
       "id": 22
+    },
+    {
+      "author": "halo",
+      "title": "halo bandung",
+      "id": 23
     }
   ],
   "comments": [
@@ -124,9 +124,9 @@
       "id": 20
     },
     {
-      "body": "zxczxc",
-      "postId": "20",
-      "id": 21
+      "body": "yes ini komentar saya",
+      "postId": "12",
+      "id": 22
     }
   ],
   "profile": {
